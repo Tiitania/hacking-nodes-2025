@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/General Skills/2Warm.md",
+                "file": "PicoCTF/General Skills/Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2Warm"
+              "title": "Bases"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "fb271e2422c6f587",
   "lastOpenFiles": [
-    "PicoCTF/General Skills/Lets Warm Up.md",
     "PicoCTF/General Skills/2Warm.md",
+    "PicoCTF/General Skills/Bases.md",
+    "PicoCTF/General Skills/Lets Warm Up.md",
     "Sin título.md",
     "Bienvenido.md",
     "README.md",
