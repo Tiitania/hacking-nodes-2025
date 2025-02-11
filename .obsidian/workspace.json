@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/General Skills/First Grep.md",
+                "file": "PicoCTF/General Skills/Warmed Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Grep"
+              "title": "Warmed Up"
             }
           }
         ]
@@ -171,9 +171,14 @@
   "active": "fb271e2422c6f587",
   "lastOpenFiles": [
     "PicoCTF/General Skills/Lets Warm Up.md",
+    "PicoCTF/General Skills/Nice netcat....md",
+    "PicoCTF/General Skills/Warmed Up.md",
+    "PicoCTF/General Skills/Obedient Cat.md",
+    "PicoCTF/General Skills/What's a net cat.md",
     "PicoCTF/General Skills/2Warm.md",
-    "PicoCTF/General Skills/First Grep.md",
     "PicoCTF/General Skills/Bases.md",
+    "PicoCTF/General Skills/First Grep.md",
+    "PicoCTF/General Skills/Glitch Cat.md",
     "Sin título.md",
     "Bienvenido.md",
     "README.md",
