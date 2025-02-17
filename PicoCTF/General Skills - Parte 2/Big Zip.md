@@ -4,11 +4,6 @@ Unzip this archive and find the flag.
 - [Download zip file](https://artifacts.picoctf.net/c/505/big-zip-files.zip)
 #### hint
 - Can grep be instructed to look at every file in a directory and its subdirectories?
-
-
-
-
-
 ## Solución
 mediante los comandos wget, unzip para extraer los archivos y grep -r para buscar la bandera
 
