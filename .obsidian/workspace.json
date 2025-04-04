@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web 3/Irish-Name-Repo 1.md",
+                "file": "PicoCTF/web4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
+              "title": "Trickster"
             }
           }
         ],
@@ -241,9 +241,14 @@
   },
   "active": "e48217d347298f0e",
   "lastOpenFiles": [
+    "PicoCTF/web4/SOAP.md",
+    "PicoCTF/web4/Trickster.md",
+    "PicoCTF/web4/Most Cookies.md",
+    "PicoCTF/web4/MatchTheRegex.md",
     "PicoCTF/Web 3/JaWT Scratchpad.md",
-    "PicoCTF/Web 3/More SQLi.md",
     "PicoCTF/Web 3/Irish-Name-Repo 1.md",
+    "PicoCTF/web4",
+    "PicoCTF/Web 3/More SQLi.md",
     "PicoCTF/WEB 1/Client-side-again.md",
     "PicoCTF/WEB 1/dont-use-client-side.md",
     "PicoCTF/WEB 1/Insp3ctor.md",
@@ -268,14 +273,8 @@
     "PicoCTF/WEB 1",
     "Sin nombre",
     "PicoCTF/Tarea 1/Permissions.md",
-    "PicoCTF/Tarea 1/Commitment Issues.md",
-    "PicoCTF/Tarea 1/Binary Search.md",
-    "PicoCTF/General Skills - Parte 3/Serpentine.md",
-    "PicoCTF/General Skills - Parte 3/PW Crack 2.md",
-    "PicoCTF/General Skills - Parte 2/Tab Tab attack.md",
     "PicoCTF/Tarea 1",
     "PicoCTF/General Skills - Parte 3",
-    "PicoCTF/General Skills - Parte 2",
-    "git"
+    "PicoCTF/General Skills - Parte 2"
   ]
 }
