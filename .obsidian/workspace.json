@@ -83,16 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/web4/Trickster.md",
+                "file": "PicoCTF/Tarea 2 - Web/Includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "Includes"
+            }
+          },
+          {
+            "id": "e01b35571ff70ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea 2 - Web/Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unminify"
+            }
+          },
+          {
+            "id": "08b7e865a0ea0efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea 2 - Web/SQLLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLLite"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -239,42 +267,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e48217d347298f0e",
+  "active": "08b7e865a0ea0efc",
   "lastOpenFiles": [
-    "PicoCTF/web4/SOAP.md",
-    "PicoCTF/web4/Trickster.md",
-    "PicoCTF/web4/Most Cookies.md",
-    "PicoCTF/web4/MatchTheRegex.md",
-    "PicoCTF/Web 3/JaWT Scratchpad.md",
     "PicoCTF/Web 3/Irish-Name-Repo 1.md",
-    "PicoCTF/web4",
     "PicoCTF/Web 3/More SQLi.md",
-    "PicoCTF/WEB 1/Client-side-again.md",
-    "PicoCTF/WEB 1/dont-use-client-side.md",
-    "PicoCTF/WEB 1/Insp3ctor.md",
-    "PicoCTF/WEB 1/logon.md",
-    "PicoCTF/WEB 1/picobrowser.md",
-    "PicoCTF/WEB 1/where are the robots.md",
-    "H.md",
-    "PicoCTF/WEB 2/Scavenger Hunt.md",
-    "PicoCTF/WEB 2/GET aHEAD.md",
     "PicoCTF/WEB 2/Cookies.md",
+    "PicoCTF/WEB 2/GET aHEAD.md",
+    "PicoCTF/WEB 2/Scavenger Hunt.md",
+    "PicoCTF/web4/Trickster.md",
+    "PicoCTF/web4/SOAP.md",
+    "PicoCTF/web4/MatchTheRegex.md",
+    "PicoCTF/web4/Most Cookies.md",
+    "PicoCTF/Web 3/JaWT Scratchpad.md",
+    "PicoCTF/Tarea 1/Collaborative Development.md",
+    "PicoCTF/Tarea 1/Special.md",
+    "PicoCTF/Tarea 1/Permissions.md",
+    "PicoCTF/Tarea 1/Commitment Issues.md",
+    "PicoCTF/Tarea 2 - Web/SQLLite.md",
+    "PicoCTF/Tarea 2 - Web/Secrets.md",
+    "PicoCTF/Tarea 2 - Web/Power Cookie.md",
+    "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
+    "PicoCTF/Tarea 2 - Web/Web Decode.md",
+    "PicoCTF/Tarea 2 - Web/Unminify.md",
+    "PicoCTF/General Skills - Parte 2/Big Zip.md",
+    "PicoCTF/General Skills - Parte 2/Based.md",
+    "PicoCTF/General Skills/Warmed Up.md",
+    "PicoCTF/General Skills/plumbing.md",
+    "PicoCTF/General Skills/Obedient Cat.md",
+    "PicoCTF/General Skills/Nice netcat....md",
+    "PicoCTF/Tarea 2 - Web",
+    "PicoCTF/web4",
     "PicoCTF/Web 3",
     "PicoCTF/WEB 2/Sin nombre",
-    "PicoCTF/Tarea 1/Blame Game.md",
     "PicoCTF/WEB 2",
     "PicoCTF/WEB 1/Sin nombre",
-    "Sin título.md",
-    "PicoCTF/Tarea 1/Collaborative Development.md",
-    "PicoCTF/Tarea 1/chrono.md",
-    "PicoCTF/Tarea 1/binhexa.md",
-    "PicoCTF/Tarea 1/ASCII Numbers.md",
-    "PicoCTF/Tarea 1/Special.md",
     "PicoCTF/WEB 1",
     "Sin nombre",
-    "PicoCTF/Tarea 1/Permissions.md",
     "PicoCTF/Tarea 1",
-    "PicoCTF/General Skills - Parte 3",
-    "PicoCTF/General Skills - Parte 2"
+    "PicoCTF/General Skills - Parte 3"
   ]
 }
