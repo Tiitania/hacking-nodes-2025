@@ -111,16 +111,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 2 - Web/SQLLite.md",
+                "file": "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLLite"
+              "title": "Roboto Sans"
+            }
+          },
+          {
+            "id": "b2f8d48cd923ab63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensic/So Meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "So Meta"
+            }
+          },
+          {
+            "id": "cfe1aa6c6b2e5fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensic/shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shark on wire 1"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -267,43 +295,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08b7e865a0ea0efc",
+  "active": "cfe1aa6c6b2e5fbc",
   "lastOpenFiles": [
-    "PicoCTF/Web 3/Irish-Name-Repo 1.md",
+    "PicoCTF/Forensic/extension.md",
+    "PicoCTF/Forensic/Glory of the Garden.md",
+    "PicoCTF/Forensic/shark on wire 1.md",
+    "PicoCTF/Forensic/So Meta.md",
+    "PicoCTF/Forensic/What Lies Within.md",
+    "Sin nombre 1",
+    "Forensic 1",
+    "H.md",
+    "README.md",
+    "PicoCTF/Forensic",
     "PicoCTF/Web 3/More SQLi.md",
+    "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
+    "PicoCTF/Tarea 2 - Web/Web Decode.md",
+    "PicoCTF/web4/MatchTheRegex.md",
+    "PicoCTF/web4/Trickster.md",
+    "PicoCTF/web4/SOAP.md",
+    "PicoCTF/Tarea 2 - Web/SQLLite.md",
+    "PicoCTF/Web 3/Irish-Name-Repo 1.md",
     "PicoCTF/WEB 2/Cookies.md",
     "PicoCTF/WEB 2/GET aHEAD.md",
     "PicoCTF/WEB 2/Scavenger Hunt.md",
-    "PicoCTF/web4/Trickster.md",
-    "PicoCTF/web4/SOAP.md",
-    "PicoCTF/web4/MatchTheRegex.md",
     "PicoCTF/web4/Most Cookies.md",
     "PicoCTF/Web 3/JaWT Scratchpad.md",
     "PicoCTF/Tarea 1/Collaborative Development.md",
     "PicoCTF/Tarea 1/Special.md",
     "PicoCTF/Tarea 1/Permissions.md",
     "PicoCTF/Tarea 1/Commitment Issues.md",
-    "PicoCTF/Tarea 2 - Web/SQLLite.md",
     "PicoCTF/Tarea 2 - Web/Secrets.md",
     "PicoCTF/Tarea 2 - Web/Power Cookie.md",
-    "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
-    "PicoCTF/Tarea 2 - Web/Web Decode.md",
-    "PicoCTF/Tarea 2 - Web/Unminify.md",
-    "PicoCTF/General Skills - Parte 2/Big Zip.md",
-    "PicoCTF/General Skills - Parte 2/Based.md",
-    "PicoCTF/General Skills/Warmed Up.md",
-    "PicoCTF/General Skills/plumbing.md",
-    "PicoCTF/General Skills/Obedient Cat.md",
-    "PicoCTF/General Skills/Nice netcat....md",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/web4",
     "PicoCTF/Web 3",
     "PicoCTF/WEB 2/Sin nombre",
     "PicoCTF/WEB 2",
     "PicoCTF/WEB 1/Sin nombre",
-    "PicoCTF/WEB 1",
-    "Sin nombre",
-    "PicoCTF/Tarea 1",
-    "PicoCTF/General Skills - Parte 3"
+    "PicoCTF/WEB 1"
   ]
 }
