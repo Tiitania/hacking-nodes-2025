@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic/shark on wire 1.md",
+                "file": "PicoCTF/Examen P.2/flag_shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 1"
+              "title": "flag_shop"
             }
           }
         ],
@@ -297,9 +297,23 @@
   },
   "active": "cfe1aa6c6b2e5fbc",
   "lastOpenFiles": [
+    "PicoCTF/Examen P.2/SansAlpha.md",
+    "PicoCTF/Examen P.2/flag_shop.md",
+    "PicoCTF/Examen P.1/Cookie Monster Secret Recipe.md",
+    "PicoCTF/Examen P.1/SQL Direct.md",
+    "PicoCTF/Examen P.1/SSTI2.md",
+    "PicoCTF/Examen P.2",
+    "PicoCTF/Examen P.1/Sin título 9.md",
+    "PicoCTF/Examen P.1/Sin título 8.md",
+    "PicoCTF/Examen P.1/Sin título 7.md",
+    "PicoCTF/Examen P.1/Sin título 6.md",
+    "PicoCTF/Examen P.1/Sin título 5.md",
+    "PicoCTF/Examen P.1/Sin título 4.md",
+    "PicoCTF/Examen P.1/Sin título 3.md",
     "PicoCTF/Forensic/extension.md",
-    "PicoCTF/Forensic/Glory of the Garden.md",
     "PicoCTF/Forensic/shark on wire 1.md",
+    "PicoCTF/Examen P.1",
+    "PicoCTF/Forensic/Glory of the Garden.md",
     "PicoCTF/Forensic/So Meta.md",
     "PicoCTF/Forensic/What Lies Within.md",
     "Sin nombre 1",
@@ -314,24 +328,10 @@
     "PicoCTF/web4/Trickster.md",
     "PicoCTF/web4/SOAP.md",
     "PicoCTF/Tarea 2 - Web/SQLLite.md",
-    "PicoCTF/Web 3/Irish-Name-Repo 1.md",
-    "PicoCTF/WEB 2/Cookies.md",
-    "PicoCTF/WEB 2/GET aHEAD.md",
-    "PicoCTF/WEB 2/Scavenger Hunt.md",
-    "PicoCTF/web4/Most Cookies.md",
-    "PicoCTF/Web 3/JaWT Scratchpad.md",
-    "PicoCTF/Tarea 1/Collaborative Development.md",
-    "PicoCTF/Tarea 1/Special.md",
-    "PicoCTF/Tarea 1/Permissions.md",
-    "PicoCTF/Tarea 1/Commitment Issues.md",
-    "PicoCTF/Tarea 2 - Web/Secrets.md",
-    "PicoCTF/Tarea 2 - Web/Power Cookie.md",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/web4",
     "PicoCTF/Web 3",
     "PicoCTF/WEB 2/Sin nombre",
-    "PicoCTF/WEB 2",
-    "PicoCTF/WEB 1/Sin nombre",
-    "PicoCTF/WEB 1"
+    "PicoCTF/WEB 2"
   ]
 }
