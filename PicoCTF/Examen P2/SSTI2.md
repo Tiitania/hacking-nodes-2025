@@ -19,7 +19,7 @@ insertamos la sig inyeccion sacada de la pagina:
 
 y ya nos da la bandera
 
-picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_99fe4411}
+picoCTF{sst1_f1lt3r_byp4ss_96a02202}
 ```
 
 Pagina de las inyecciones: https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
