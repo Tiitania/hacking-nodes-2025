@@ -8,175 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f677ff628f533d02",
+            "id": "e38cc33582a5eac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1/Special.md",
+                "file": "PicoCTF/forensic 2/c0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special"
-            }
-          },
-          {
-            "id": "08ce32747078df4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/WEB 1/Insp3ctor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insp3ctor"
-            }
-          },
-          {
-            "id": "f6bde421ce61ccf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/WEB 1/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Client-side-again"
-            }
-          },
-          {
-            "id": "6006940e40848263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Web 3/Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
-            }
-          },
-          {
-            "id": "2f5348c5645a60d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Web 3/Sin título 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 1"
-            }
-          },
-          {
-            "id": "e48217d347298f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 2 - Web/Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Includes"
-            }
-          },
-          {
-            "id": "e01b35571ff70ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 2 - Web/Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unminify"
-            }
-          },
-          {
-            "id": "08b7e865a0ea0efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roboto Sans"
-            }
-          },
-          {
-            "id": "b2f8d48cd923ab63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensic/So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "So Meta"
-            }
-          },
-          {
-            "id": "cfe1aa6c6b2e5fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Examen P1/SansAlpha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SansAlpha"
-            }
-          },
-          {
-            "id": "8214a182a7eaa46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Examen P2/SQL Direct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Direct"
-            }
-          },
-          {
-            "id": "f190c35ecd1eb338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Examen P2/SSTI1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSTI1"
+              "title": "c0rrupt"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,10 +168,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f190c35ecd1eb338",
+  "active": "e38cc33582a5eac7",
   "lastOpenFiles": [
-    "PicoCTF/Examen P2/SSTI2.md",
+    "PicoCTF/forensic 2/like1000.md",
+    "PicoCTF/forensic 2/m00nwalk.md",
+    "PicoCTF/forensic 2/WhitePages.md",
+    "PicoCTF/forensic 2/shark on wire 2.md",
+    "PicoCTF/forensic 2/c0rrupt.md",
+    "PicoCTF/Examen P2/SQL Direct.md",
+    "PicoCTF/Examen P1/SansAlpha.md",
+    "PicoCTF/Forensic/So Meta.md",
+    "PicoCTF/Tarea 2 - Web/Roboto Sans.md",
+    "PicoCTF/Tarea 2 - Web/Unminify.md",
+    "PicoCTF/Tarea 2 - Web/Includes.md",
+    "PicoCTF/Web 3/Irish-Name-Repo 1.md",
+    "PicoCTF/WEB 1/Client-side-again.md",
+    "PicoCTF/WEB 1/Insp3ctor.md",
+    "PicoCTF/Tarea 1/Special.md",
+    "PicoCTF/General Skills/Glitch Cat.md",
     "PicoCTF/Examen P2/SSTI1.md",
+    "PicoCTF/forensic 2",
+    "PicoCTF/Examen P2/SSTI2.md",
     "PicoCTF/Examen P1/dont-you-love-banners.md",
     "PicoCTF/Examen P1/FANTASY CTF.md",
     "PicoCTF/Examen P1/flag_shop.md",
@@ -335,31 +197,14 @@
     "PicoCTF/Examen P1/Rust fixme 1.md",
     "PicoCTF/Examen P1/Rust fixme 2.md",
     "PicoCTF/Examen P1/Rust fixme 3.md",
-    "PicoCTF/Examen P1/SansAlpha.md",
-    "PicoCTF/Examen P1/Specialer.md",
-    "PicoCTF/Examen P2/Bookmarklet.md",
-    "PicoCTF/Examen P2/Cookie Monster Secret Recipe.md",
-    "PicoCTF/Examen P2/findme.md",
-    "PicoCTF/Examen P2/head-dump.md",
-    "PicoCTF/Examen P2/Java Code Analysis.md",
-    "PicoCTF/Examen P2/n0s4n1ty 1.md",
-    "PicoCTF/Examen P2/SQL Direct.md",
-    "PicoCTF/Examen P2/WebSockFish.md",
-    "PicoCTF/Examen P1/Sin título 9.md",
-    "PicoCTF/Examen P2/Sin título 7.md",
     "PicoCTF/Examen P1",
-    "PicoCTF/Forensic/extension.md",
-    "PicoCTF/Forensic/shark on wire 1.md",
     "PicoCTF/Examen P2",
-    "PicoCTF/Forensic/Glory of the Garden.md",
-    "PicoCTF/Forensic/So Meta.md",
     "Sin nombre 1",
     "Forensic 1",
     "PicoCTF/Forensic",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/web4",
     "PicoCTF/Web 3",
-    "PicoCTF/WEB 2/Sin nombre",
-    "PicoCTF/WEB 2"
+    "PicoCTF/WEB 2/Sin nombre"
   ]
 }
