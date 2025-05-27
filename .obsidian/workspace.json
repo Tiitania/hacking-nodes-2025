@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/crypto 2/rsa-pop-quiz.md",
+                "file": "PicoCTF/cryptyo 3/b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "b00tl3gRSA3"
             }
           }
         ],
@@ -213,14 +213,20 @@
   },
   "active": "461a56f1300bbc1b",
   "lastOpenFiles": [
+    "PicoCTF/cryptyo 3/b00tl3gRSA2.md",
+    "PicoCTF/cryptyo 3/Mind your Ps and Qs.md",
+    "PicoCTF/cryptyo 3/Mini RSA.md",
+    "PicoCTF/cryptyo 3/b00tl3gRSA3.md",
+    "PicoCTF/Crypto/The Numbers.md",
+    "PicoCTF/crypto 2/rsa-pop-quiz.md",
+    "PicoCTF/crypto 2/Sin nombre",
+    "PicoCTF/cryptyo 3",
     "PicoCTF/Examen P1/Python Wrangling.md",
     "PicoCTF/Examen P1/dont-you-love-banners.md",
-    "PicoCTF/crypto 2/rsa-pop-quiz.md",
     "PicoCTF/Crypto/interencdec.md",
     "PicoCTF/crypto 2",
     "PicoCTF/Crypto/Easy1.md",
     "PicoCTF/Crypto/waves over lambda.md",
-    "PicoCTF/Crypto/The Numbers.md",
     "PicoCTF/Crypto/Tapping.md",
     "PicoCTF/Crypto/la cifra de.md",
     "PicoCTF/Crypto/caesar.md",
@@ -239,15 +245,9 @@
     "PicoCTF/foresinc 3/WebNet0.md",
     "PicoCTF/foresinc 3/WebNet1.md",
     "PicoCTF/foresinc 4",
-    "PicoCTF/foresinc 3/Matryoshka doll.md",
-    "PicoCTF/foresinc 3/MacroHard WeakEdge.md",
-    "PicoCTF/forensic 2/c0rrupt.md",
     "PicoCTF/foresinc 3",
-    "PicoCTF/forensic 2/like1000.md",
     "PicoCTF/forensic 2",
     "PicoCTF/Examen P1",
-    "PicoCTF/Examen P2",
-    "Sin nombre 1",
-    "Forensic 1"
+    "PicoCTF/Examen P2"
   ]
 }
